@@ -1,0 +1,15 @@
+# Git ignore file
+
+# The output file 
+*.out
+*.err
+
+# The bash script
+*.sh
+
+# The models
+models/
+
+# Temp file
+__*
+
